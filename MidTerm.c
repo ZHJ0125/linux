@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-#define num 10
+#define num 13
 #define Num (6*num)
 #define number (2*num)
 
